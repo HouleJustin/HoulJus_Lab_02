@@ -51,7 +51,7 @@ public class Main{
      *
      * @param  a first 1D array
      * @param b second 1D array
-     * @return  A boolean true or false, depending if the arrays are equivalent to each other or not.
+     * @return  A boolean true or false, if the arrays are equivalent to each other or not.
      */
     public static boolean arrEqual(int[] a, int[] b) {
         //check if arrays are empty
@@ -223,3 +223,4 @@ public class Main{
 
     }
 }
+
