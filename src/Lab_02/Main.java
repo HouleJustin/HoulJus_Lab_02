@@ -1,7 +1,7 @@
 package Lab_02;
 /**
  * Name: Justin Houle
- * Date 2022/02/01
+ * Date: 2022/02/01
  * Description: Multiple functions which preform various tasks using arrays.
  */
 
