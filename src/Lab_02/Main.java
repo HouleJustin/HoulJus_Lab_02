@@ -11,7 +11,7 @@ public class Main{
      *
      * @param name The string to be displayed
      */
-    public static void displayName(String name) {
+    public static void displayName(String name){
         System.out.println("#1: " + name);
     }
 
@@ -41,6 +41,7 @@ public class Main{
      * @param a 2D array to be displayed
      */
     public static void display2DArray(int[][] a) {
+
         for (int i = 0; i < a.length; i++) {
             displayArray(a[i]);
         }
@@ -165,7 +166,10 @@ public class Main{
             return null;
     }
 
-
+    /**
+     * Various tests used to verify if the methods are functioning properly
+     * @param args tests
+     */
     public static void main(String[] args) {
 
         // #1 test
